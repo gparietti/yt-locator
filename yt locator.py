@@ -10,6 +10,6 @@ pyautogui.write(nomevideo)
 time.sleep(3)
 pyautogui.hotkey("enter")
 
-
+#by parieeeh
 
 
