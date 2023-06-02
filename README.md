@@ -3,4 +3,4 @@ This python project is able to search for what you type in the input on yt witho
  
 In order to position the python cursor it must have Youtube in full screen.
 
-NOTE: you need to install the pyautogui library to use it. Just open the cmd and type: pip install pyautogui
+NOTE: you need to install the pyautogui library to use it. Just open the cmd and type: ```pip install pyautogui```
